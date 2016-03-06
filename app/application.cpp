@@ -1,7 +1,6 @@
 #include <user_config.h>
 #include <SmingCore/SmingCore.h>
 #include "wifi-pass.h"
-#include "simpleWebSocketClient.h"
 
 #define LED_PIN 13 // GPIO2
 
